@@ -192,12 +192,14 @@ body {
     padding-left: 15px;
     margin-bottom: 20px;
 }
-
 .main-column p {
     line-height: 1.8;
     font-size: 1rem;
     text-align: justify;
     margin-bottom: 25px;
+}
+
+.main-column > p {
     padding-left: 19px;
 }
 
